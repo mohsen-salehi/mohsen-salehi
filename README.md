@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mohsensalehi.dev@gmail.com.
 - ⚡ Fun fact: a drop in the ocean.
 
-![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical)
+![Mohsen Salehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical)
 
 
 ## 💻 Some open-source projects
@@ -75,6 +75,22 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohsen-salehi&theme=github_dark&utcOffset=8)
 
 
+
+
+
+----------
+For Job offers 👨🏻‍💻
+
+- You can contact me via 👇🏼
+
+- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) → **mohsensalehi.dev@gmail.com**
+
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) → **@moh3en_salehiw**
+
+- ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) → ***Mohsen Salehi***
+
+
+-------------------
 
 
 ## 👩‍💻 Tech and tools
