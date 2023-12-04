@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 
 
 ----------
+
 For Job offers 👨🏻‍💻
 
 - You can contact me via 👇🏼
@@ -137,7 +138,9 @@ For Job offers 👨🏻‍💻
 </div>
 
 
+ -----------
 
+ 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohsen-salehi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
