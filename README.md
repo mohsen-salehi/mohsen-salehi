@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about this: I say that I am a programmer who is a beginner and has to learn many things.
 - 📫 How to reach me: mohsensalehi.dev@gmail.com.
 - ⚡ Fun fact: a drop in the ocean.
-
-![Mohsen Salehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical)
-
+ -----------
+ <!-- ![Mohsen Salehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen-salehi&theme=github_dark) 
 
 ## 💻 Some open-source projects
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 
 -----------
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen-salehi&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohsen-salehi&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohsen-salehi&theme=github_dark&utcOffset=8)
 
