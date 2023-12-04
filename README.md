@@ -16,12 +16,8 @@ Here are some ideas to get you started:
  <!-- ![Mohsen Salehi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen-salehi&theme=github_dark) 
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohsen-salehi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-salehi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=mohsen-salehi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-salehi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 
 
 ## 💻 Some open-source projects
@@ -88,7 +84,7 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohsen-salehi&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohsen-salehi&theme=github_dark&utcOffset=8)
-
+![](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 
 
