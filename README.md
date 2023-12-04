@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mohsensalehi.dev@gmail.com.
 - ⚡ Fun fact: a drop in the ocean.
 
-![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-saleh&show_icons=true&theme=radical)
+![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-salehi&hide_progress=true)
+
