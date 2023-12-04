@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-salehi&hide_progress=true)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen-salehi)]([https://github.com/mohsen-salehi](https://github.com/mohsen-salehi/)https://github.com/mohsen-salehi/github-readme-stats)
