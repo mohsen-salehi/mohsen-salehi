@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>👩‍💻 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -57,6 +57,13 @@ Here are some ideas to get you started:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/base-swap"><b>base-swap</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/mohsen-salehi/FTLend"><b>FTMlend</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/FTLend?style=flat-square&labelColor=343b41"/></td>
@@ -70,13 +77,6 @@ Here are some ideas to get you started:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mohsen-salehi/base-swap"><b>base-swap</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mohsen-salehi/birthday-landing-frontend"><b>birthday-landing-elanza</b></a></td>
