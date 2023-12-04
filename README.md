@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-salehi&hide_progress=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen-salehi)]([https://github.com/anuraghazra](https://github.com/mohsen-salehi/)https://github.com/mohsen-salehi/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohsen-salehi)]([https://github.com/mohsen-salehi](https://github.com/mohsen-salehi/)https://github.com/mohsen-salehi/github-readme-stats)
