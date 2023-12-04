@@ -130,3 +130,8 @@ For Job offers 👨🏻‍💻
  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 </div>
 
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohsen-salehi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
