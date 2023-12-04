@@ -44,4 +44,54 @@ Here are some ideas to get you started:
  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-salehi&hide_progress=true)
+## 💻 Some open-source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/FTLend"><b>FTMlend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/FTLend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/FTLend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/FTLend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/FTLend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/mazda-app-nft"><b>Mazda app NFT</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/mazda-app-nft?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/base-swap"><b>base-swap</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/base-swap?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/birthday-landing-frontend"><b>birthday-landing-elanza</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/birthday-landing-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/birthday-landing-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/birthday-landing-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/birthday-landing-frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/next-shop-full"><b>next-shop-full</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/next-shop-full?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/next-shop-full?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/next-shop-full?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/next-shop-full?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
