@@ -84,7 +84,9 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohsen-salehi&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohsen-salehi&theme=github_dark&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+
+ <!-- ![](https://github-readme-stats.vercel.app/api?username=mohsen-salehi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 
 
 
