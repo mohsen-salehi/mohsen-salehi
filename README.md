@@ -77,6 +77,13 @@ Here are some ideas to get you started:
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/next-shop-full?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/next-shop-full?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/mohsen-salehi/fantom-landing-page"><b>Fantom-landing</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mohsen-salehi/fantom-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mohsen-salehi/fantom-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mohsen-salehi/fantom-landing-page?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mohsen-salehi/fantom-landing-page?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
